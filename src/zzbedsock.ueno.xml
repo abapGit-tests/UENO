@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_UENO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DM02L>
+    <DM02L>
+     <ENTID>ZZBEDSOCK</ENTID>
+     <AS4LOCAL>A</AS4LOCAL>
+     <FLG_DEF>X</FLG_DEF>
+     <FSTUSER>ABARNARD</FSTUSER>
+     <FSTDATE>2019-09-19</FSTDATE>
+     <FSTTIME>09:39:39</FSTTIME>
+     <LSTUSER>ABARNARD</LSTUSER>
+     <LSTDATE>2019-09-19</LSTDATE>
+     <LSTTIME>09:49:55</LSTTIME>
+    </DM02L>
+   </DM02L>
+   <DM02T>
+    <DM02T>
+     <SPRACHE>E</SPRACHE>
+     <ENTID>ZZBEDSOCK</ENTID>
+     <AS4LOCAL>A</AS4LOCAL>
+     <LANGBEZ>Bedsock</LANGBEZ>
+     <LSTUSER>ABARNARD</LSTUSER>
+     <LSTDATE>2019-09-19</LSTDATE>
+     <LSTTIME>09:39:55</LSTTIME>
+    </DM02T>
+   </DM02T>
+   <DM42S>
+    <DM42S>
+     <ENTIDTO>ZZBEDSOCK</ENTIDTO>
+     <AS4LOCAL>A</AS4LOCAL>
+     <ENTIDFROM>ZZFOOT</ENTIDFROM>
+     <EBROLNR>1</EBROLNR>
+     <FLG_DEF>X</FLG_DEF>
+     <EBTYP>R</EBTYP>
+     <CARD1>C</CARD1>
+     <CARD2>C</CARD2>
+     <FSTUSER>ABARNARD</FSTUSER>
+     <FSTDATE>2019-09-19</FSTDATE>
+     <FSTTIME>09:47:06</FSTTIME>
+     <LSTUSER>ABARNARD</LSTUSER>
+     <LSTDATE>2019-09-19</LSTDATE>
+     <LSTTIME>09:48:49</LSTTIME>
+    </DM42S>
+   </DM42S>
+   <DOCU_UEND>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <HEADER>
+      <TDNAME>UENDZZBEDSOCK                 A00</TDNAME>
+      <TDID>IM</TDID>
+      <TDSPRAS>E</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00001</TDVERSION>
+      <TDFRELES>750</TDFRELES>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEADER>
+     <CONTENT>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48aXRmIHhtbDpzcGFjZT0icHJl
+c2VydmUiIHhtbG5zOml0Zj0idXJuOnNhcC1jb206c2Fwc2NyaXB0OjIwMDQ6aXRmIj48aXRmOnAg
+bmFtZT0iQVMiPkEgc29jaywgZXNwZWNpYWxseSB3b29sbGVuLCBtYWRlIHRvIGJlIHdvcm4gaW4g
+YmVkLjwvaXRmOnA+PC9pdGY+</CONTENT>
+     <ITF>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>A sock, especially woollen, made to be worn in bed.</TDLINE>
+      </TLINE>
+     </ITF>
+    </item>
+   </DOCU_UEND>
+   <DOCU_URL1>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <HEADER>
+      <TDNAME>URL1ZZBEDSOCK                 AZZFOOT                    1</TDNAME>
+      <TDID>IM</TDID>
+      <TDSPRAS>E</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00001</TDVERSION>
+      <TDFRELES>750</TDFRELES>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEADER>
+     <CONTENT>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48aXRmIHhtbDpzcGFjZT0icHJl
+c2VydmUiIHhtbG5zOml0Zj0idXJuOnNhcC1jb206c2Fwc2NyaXB0OjIwMDQ6aXRmIj48aXRmOnAg
+bmFtZT0iJmd0OzAiPjxpdGY6dGVtcGxhdGUgbGluZT0iKiAtLSZndDsiLz48L2l0ZjpwPjxpdGY6
+cCBuYW1lPSJBUyI+QW4gPGl0ZjpzeW1ib2wgbmFtZT0iSU1aWkZPT1QiLz4gY2FuIGhhdmUgb25l
+IDxpdGY6c3ltYm9sIG5hbWU9IklNWlpCRURTT0NLIi8+LjwvaXRmOnA+PGl0ZjpwIG5hbWU9IiZn
+dDsxIj48aXRmOnRlbXBsYXRlIGxpbmU9IiogJmx0Oy0tIi8+PC9pdGY6cD48aXRmOnAgbmFtZT0i
+QVMiPkFuIDxpdGY6c3ltYm9sIG5hbWU9IklNWlpCRURTT0NLIi8+IGNhbiBoYXZlIG9uZSA8aXRm
+OnN5bWJvbCBuYW1lPSJJTVpaRk9PVCIvPi48L2l0ZjpwPjwvaXRmPg==</CONTENT>
+     <ITF>
+      <TLINE>
+       <TDFORMAT>&gt;0</TDFORMAT>
+       <TDLINE>* --&gt;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>An &amp;IMZZFOOT&amp; can have one &amp;IMZZBEDSOCK&amp;.</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>&gt;1</TDFORMAT>
+       <TDLINE>* &lt;--</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+       <TDLINE>An &amp;IMZZBEDSOCK&amp; can have one &amp;IMZZFOOT&amp;.</TDLINE>
+      </TLINE>
+     </ITF>
+    </item>
+   </DOCU_URL1>
+  </asx:values>
+ </asx:abap>
+</abapGit>
